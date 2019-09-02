@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daisieghe.dancork.co.uk/sitemap.xml
